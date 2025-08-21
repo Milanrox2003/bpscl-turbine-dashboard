@@ -29,5 +29,5 @@ The dashboard helps BPSCL engineers proactively identify turbines at risk and sc
 
 ---
 👨‍💻 **Author:** Milan Maji  
-📅 Internship: June – July 2025  
+📅 Internship: May – July 2025  
 📍 Organization: BPSCL  
